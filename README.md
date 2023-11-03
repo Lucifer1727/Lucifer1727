@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lucifer1727
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on My Site
+- 🌱 I’m currently learning Full Stack Development.
+- 💞️ I’m looking for projects to contribute.
 - 📫 You can Reach me Through "jayeshraiger2708@gmail.com"
 
 <!---
